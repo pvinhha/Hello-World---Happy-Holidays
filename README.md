@@ -1,6 +1,8 @@
 # Hello-World---Happy-Holidays
 A Misty Robot embedded Java program to say "Hello World" as well as to greet the coming seasonal holidays
+
 For robot model: Misty II from Misty Robotics
+
 Software requirements: 
   - Use Skill Runner provided by Misty Robotics to upload this program to Misty robot to run
   - Use Command center provided by Misty Robotics to upload the audio files to Misty to be used with this program
